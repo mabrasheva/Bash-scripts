@@ -1,1 +1,1 @@
-# Bash-scripts-
+#### This repository stores bash scripts.
